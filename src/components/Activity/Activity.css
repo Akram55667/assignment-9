@@ -1,0 +1,15 @@
+.cartStyle{
+    border: 3px solid rgb(216, 124, 18);
+    width:200px;
+    height:500px;
+    margin: 20px;
+    border-radius: 10px;
+     
+    
+}
+.cartStyle img{
+    width: 200px;
+}
+.cartStyle h1{
+    color: rgb(7, 26, 232);
+}
