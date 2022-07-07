@@ -1,0 +1,16 @@
+nav a {
+  text-decoration: none;
+  margin-left: 20px;
+  border: 1px solid gainsboro;
+  color: aqua;
+  background-color: rgb(102, 143, 150);
+  border-radius: 5px;
+}
+
+nav a:hover{
+    background-color: red;
+    quotes: inherit;
+}
+.header{
+    color: blue;
+}
