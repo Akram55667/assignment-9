@@ -1,4 +1,5 @@
 import React from "react";
+import MainDataLoad from "../MainDataLoad/MainDataLoad";
 
 const Home = () => {
   return (
@@ -31,6 +32,7 @@ const Home = () => {
     
      <div>
         <h3 className="text-4xl">Customer Reviews(3)</h3>
+        <MainDataLoad></MainDataLoad>
      </div>
    </div>
 

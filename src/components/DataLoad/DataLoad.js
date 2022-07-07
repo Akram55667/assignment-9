@@ -10,7 +10,7 @@ const DataLoad = () => {
 
   return (
     <div>
-      <button className="" onClick={increaseCount}>Click me</button>
+      <button className="rounded-tl-none " onClick={increaseCount}>Click me</button>
       <h4 className="text-2xl">My Number: {number}</h4>
       <p>Count: {count}</p>
       <h2>Count: {count}</h2>
